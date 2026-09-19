@@ -4,7 +4,7 @@ An automated loan evaluation engine and analytics platform built with a .NET Cor
 
 ---
 
-## 🏗️ Architecture & Stack
+##  Architecture & Stack
 
 - **Backend:** C# ASP.NET Core Web API (.NET 8)
 - **Frontend:** React.js (JavaScript, CSS3)
@@ -12,7 +12,7 @@ An automated loan evaluation engine and analytics platform built with a .NET Cor
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -24,7 +24,7 @@ An automated loan evaluation engine and analytics platform built with a .NET Cor
 ### Step 1: Run the Backend API
 
 1. Open your terminal and navigate to the API directory:
-   ```bash
+   
    cd LendingPlatform.API
    Restore dependencies and start the API server:Bashdotnet restore
    dotnet run
